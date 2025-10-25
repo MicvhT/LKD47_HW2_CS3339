@@ -4,7 +4,8 @@ Homework 2: Binary Representation, Floating-point Math, and Bit Manipulation
 
 Could not login to my Texas State provided GitHub account as shown below:
 
-![][image1]
+<img width="682" height="737" alt="Screenshot 2025-10-24 at 7 14 02 PM" src="https://github.com/user-attachments/assets/c319f659-7199-4cbf-87e3-3857561be25f" />
+
 
 Therefore, the link to the repository where my .cpp and README file resides will be located in my personal GitHub account at link: [https://github.com/MicvhT/LKD47\_HW2\_CS3339](https://github.com/MicvhT/LKD47_HW2_CS3339)
 
